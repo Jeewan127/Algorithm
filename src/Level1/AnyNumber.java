@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
+/**
+ * 프로그래머스
+ * k번째
+ * https://programmers.co.kr/learn/courses/30/lessons/42748
+ */
 public class AnyNumber {
     public static void main(String[] args) {
         int[] array = new int[]{1, 5, 2, 6, 3, 7, 4};

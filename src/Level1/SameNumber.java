@@ -3,6 +3,11 @@ package Level1;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * 프로그래머스
+ * 같은숫자는 싫어
+ * https://programmers.co.kr/learn/courses/30/lessons/12906
+ */
 public class SameNumber {
     public static void main(String[] args) {
         int[] arr = new int[]{1,1,3,3,0,1,1};

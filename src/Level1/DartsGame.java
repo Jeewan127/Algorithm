@@ -4,6 +4,11 @@ import java.util.Stack;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * 프로그래머스
+ * 다트게임
+ * https://programmers.co.kr/learn/courses/30/lessons/17682
+ */
 public class DartsGame {
 
     private static int mPreResult = 0;
